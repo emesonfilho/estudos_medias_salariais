@@ -1,7 +1,7 @@
 # Base de dados salariais
 O objetivo desse projeto era gerar uma base de dados com informações salariais de todas as capitais do Brasil. 
 Observações importantes:
-* A fonte dos dados foi o site: [https://www.glassdoor.com.br/member/home/index.htm];
+* A fonte dos dados foi o site: https://www.glassdoor.com.br/member/home/index.htm;
 * Foram usadas as primeiras 1000 páginas que foram encontradas para cada capital.
 
 # Dashboard
